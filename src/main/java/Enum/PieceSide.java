@@ -1,2 +1,7 @@
-package Enum;public enum PieceSide {
+package Enum;
+
+public enum PieceSide {
+
+    Black,
+    White
 }
