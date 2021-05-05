@@ -1,10 +1,10 @@
 package ChessBoard;
 
-import javafx.util.Pair;
 
 import java.util.HashMap;
 import Enum.PieceSide;
 import Enum.PieceType;
+import Utils.Pair;
 
 public class ChessBoard implements Board{
 
